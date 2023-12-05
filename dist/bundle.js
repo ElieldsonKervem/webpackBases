@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Hello World"),console.log(2*5),(new class{creat(e){const l=document.createElement("h2");l.innerText=e,l.classList.add("h2"),document.querySelector("body").appendChild(l)}}).creat("Hello World")})();
